@@ -180,7 +180,8 @@ nav button:nth-child(2){
     font-weight:500;
 }
 .rippingcover{
-    height:clamp(400px ,80vw, 800px);
+    /* height:clamp(400px ,80vw, 800px); */
+    height:clamp(500px ,100vw, 1000px);
     position:relative;
 }
 img.bkg{
@@ -188,7 +189,8 @@ img.bkg{
     z-index:1;
     object-fit:fill;
     width:100%;
-    height:clamp(400px ,80vw, 800px);
+    /* height:clamp(400px ,80vw, 800px); */
+    height:clamp(500px ,100vw, 1000px);
 }
 .secondrip{
     position:relative;
@@ -240,7 +242,8 @@ img.bkg2{
     margin-bottom:3vw;
 }
 #sec{
-    font-size:clamp(.8rem ,2vw, 2rem);
+    /* font-size:clamp(.8rem ,2vw, 2rem); */
+    font-size:clamp(.6rem ,1.5vw, 1.5rem);
 }
 
 .scrolling{
