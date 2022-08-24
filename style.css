@@ -476,7 +476,8 @@ img.bkg2{
 }
 .deliveryTime h2::before{
     font:var(--fa-font-solid);
-    content: "\e3b9";
+    content: "\f5e4";
+    margin-right:.5rem;
 }
 .deliveryTime h2{
     font-size:2.5vw;
