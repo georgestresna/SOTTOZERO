@@ -245,6 +245,9 @@ img.bkg2{
     /* font-size:clamp(.8rem ,2vw, 2rem); */
     font-size:clamp(.6rem ,1.5vw, 1.5rem);
 }
+#sec h4{
+    text-align: center;
+}
 
 .scrolling{
     position:absolute;
