@@ -672,7 +672,7 @@ img.bkg2{
 }
 .mobileMeniu a:before{
     font:var(--fa-font-solid);
-    content:'\f2e6';
+    content:'\f805';
     display:block;
     text-align:center;
 }
