@@ -53,7 +53,7 @@ const iteme=[
         gramaj:'800',
         ingrediente:'blat de cartofi prajiti,sos de branzeturi,carne de porc + pui +vita, sosuri, salata, jalapeno',
         pret:'40.00',
-        img:'pizza nachos.png'
+        img:'pizza_sottozero.png'
     },
 ]
 
