@@ -389,7 +389,7 @@ img.bkg2{
     top:50%;
     transform:translateY(-50%);
     padding:0 .5rem 0 .5rem;
-    font-size:clamp(.7rem ,3vw, 2rem);
+    font-size:clamp(.5rem ,2vw, 2rem);
     font-weight:700;
 }
 #info{
@@ -580,6 +580,9 @@ img.bkg2{
         padding-bottom:1rem;
     }
     /*dde lucrat mai sus la galerie*/
+    .centerText{
+        font-size:clamp(.5rem ,3vw, 2rem);
+    }
 }
 
 @media (max-width:600px){

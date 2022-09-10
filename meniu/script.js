@@ -4,56 +4,56 @@ const iteme=[
         gramaj:'600',
         ingrediente:'chifla, chiftea vita+porc, somon fume, mix branzeturi, ceapa, rosii cherry, soscheddar, ardei iute, salate, sosuri + cartofi aromatizati',
         pret:'40.00',
-        img:'epic dreams.png'
+        img:'epic-dreams.jpg'
     },
     {
         nume:'MENIU BURGER COLONEL',
         gramaj:'600',
         ingrediente:'chifla, chiftea vita+porc, bacon, mix branzeturi, ceapa prajita, rosii uscate, salate, sosuri, jalapeno + cartofi aromatizati',
         pret:'35.00',
-        img:'colonel.png'
+        img:'colonel.jpg'
     },
     {
         nume:'MENIU BURGER MAIOR',
         gramaj:'600',
         ingrediente:'chifla, chiftea vita+porc, bacon, mix branzeturi, ceapa prajita, rosii uscate, salate, sosuri + cartofi aromatizati',
         pret:'35.00',
-        img:'maior.png'
+        img:'maior.jpg'
     },
     {
         nume:'QUESADILLA',
         gramaj:'350',
         ingrediente:'lipie, carne de pui/porc, branzeturi, salate, sosuri, ceapa aromatizata, jalapeno',
         pret:'26.00',
-        img:'quesadilla.png'
+        img:'quesadilla.jpg'
     },
     {
         nume:'BURRITO PUI/PORC',
         gramaj:'450',
         ingrediente:'lipie, carne de pui/porc, branzeturi, mix Mexican, salate, sosuri, jalapeno',
         pret:'28.00',
-        img:'burrito.png'
+        img:'burrito.jpg'
     },
     {
         nume:'PIZZA BURGER',
         gramaj:'800',
         ingrediente:'blat de cartofi prajiti, sos branzeturi, carne vita+porc, bacon, sosuri, salata, jalapeno',
         pret:'35.00',
-        img:'pizza burger.png'
+        img:'pizza-burger.jpg'
     },
     {
         nume:'PIZZA NACHOS',
         gramaj:'500',
         ingrediente:'blat nachos, sos branzeturi, carne de pui, sosuri, jalapeno',
         pret:'40.00',
-        img:'pizza nachos.png'
+        img:'pizza-nachos.jpg'
     },
     {
         nume:'PIZZA SOTTOZERO',
         gramaj:'800',
         ingrediente:'blat de cartofi prajiti,sos de branzeturi,carne de porc + pui +vita, sosuri, salata, jalapeno',
         pret:'40.00',
-        img:'pizza_sottozero.png'
+        img:'pizza_sottozero.jpg'
     },
 ]
 
