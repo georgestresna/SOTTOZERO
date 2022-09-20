@@ -27,16 +27,15 @@ h1 a{
 .meal{
     width:100%;
     border-radius:15px;
-    background:#D73B3B;
     padding:1.5rem;
     display:flex;
     align-items: center;
     /* margin:1.5rem 0; */
     transition:.5s;
 }
-.meal:hover{
+/* .meal:hover{
     background:#c91616;
-}
+} */
 .content{
     padding-left:1.5rem;
     width:100%;
@@ -73,7 +72,7 @@ h1 a{
 
 .tel{
     font-family:'Russo One', sans-serif;
-    font-size:3vmax;
+    font-size:5vmax;
     display:flex;
     justify-content: center;
     color:black;
@@ -152,4 +151,28 @@ h1 a{
     .meal img{
         width:250px;
     }
+}
+
+.buttons a{
+    text-decoration:none;
+    color:white;
+    font-size:1.3rem;
+    border-radius:20px;
+    padding:1vh 3vw;
+    display:inline-block;
+    margin:.5rem;
+}
+.buttons{
+    margin:5vh auto;
+    width:100%;
+    text-align:center;
+}
+.options h1{
+    color:black;
+    font-size:3rem;
+    padding:3rem 0;
+}
+.buttons h1{
+    font-size:5vmax;
+    padding:3vmax 0;
 }
