@@ -64,7 +64,7 @@ const iteme_glovo=[
         gramaj:'700',
         ingrediente:'Chifla, carne vita + porc, somon fume, mix branzeturi, ceapa prajita, rosii cherry, sos cheddar, ardei iute, salata iceberg, sosuri, Cartofi prajiti aromatizati',
         pret:'45.00',
-        img:'lb8h9oxocmnihkwmswmq',
+        img:'epic-dreams.jpg',
         color:'#D73B3B'
     },
     {
@@ -80,7 +80,7 @@ const iteme_glovo=[
         gramaj:'700',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon, jalapeno, Cartofi prajiti aromatizati',
         pret:'40.00',
-        img:'',
+        img:'colonel.jpg',
         color:'#D73B3B'
     },
     {
@@ -88,7 +88,7 @@ const iteme_glovo=[
         gramaj:'700',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon, Cartofi prajiti aromatizati',
         pret:'40.00',
-        img:'',
+        img:'maior.jpg',
         color:'#D73B3B'
     },
     {
@@ -121,7 +121,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chifla, carne vita + porc, somon fume, mix branzeturi, ceapa prajita, rosii cherry, sos cheddar, ardei iute, salata iceberg, sosuri',
         pret:'40.00',
-        img:'',
+        img:'epic-dreams.jpg',
         color:'#364B94'
     },
     {
@@ -137,7 +137,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon, jalapeno',
         pret:'35.00',
-        img:'',
+        img:'colonel.jpg',
         color:'#364B94'
     },
     {
@@ -145,7 +145,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon',
         pret:'35.00',
-        img:'',
+        img:'maior.jpg',
         color:'#364B94'
     },
     {
@@ -282,7 +282,7 @@ window.addEventListener("DOMContentLoaded", function () {
     const showInHtml = iteme_glovo[order].map((project) => {
         return `
         <div class="meal" style="background-color:${project.color};">
-        <img src="meniu_g/${project.img}" alt="">
+        <img src="meniu_prod/${project.img}" alt="">
         <div class="content">
             <div class="text">
                 <h3>${project.nume}</h3>
