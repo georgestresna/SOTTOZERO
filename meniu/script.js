@@ -202,7 +202,7 @@ const iteme_glovo=[
         nume:'PIZZA BURGER',
         gramaj:'800',
         ingrediente:'blat de cartofi prajiti, sos branzeturi, carne vita+porc, bacon, sosuri, salata, jalapeno',
-        pret:'40.00',
+        pret:'45.00',
         img:'pizza-burger.jpg',
         color:'rgb(227, 147, 0)'
     },
@@ -210,7 +210,7 @@ const iteme_glovo=[
         nume:'PIZZA NACHOS',
         gramaj:'500',
         ingrediente:'blat nachos, sos branzeturi, carne de pui, sosuri, jalapeno',
-        pret:'40.00',
+        pret:'45.00',
         img:'pizza-nachos.jpg',
         color:'rgb(227, 147, 0)'
     },
@@ -218,7 +218,7 @@ const iteme_glovo=[
         nume:'PIZZA SOTTOZERO',
         gramaj:'800',
         ingrediente:'blat de cartofi prajiti,sos de branzeturi,carne de porc + pui +vita, sosuri, salata, jalapeno',
-        pret:'40.00',
+        pret:'45.00',
         img:'pizza_sottozero.jpg',
         color:'rgb(227, 147, 0)'
     }],
