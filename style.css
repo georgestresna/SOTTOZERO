@@ -717,3 +717,26 @@ img.bkg2{
     display:block;
     text-align:center;
 }
+
+.grey{
+    top:0;
+    left:0;
+    position:fixed;
+    background:rgba(128, 128, 128, 0.423);
+    width:100%;
+    height:100vh;
+    z-index:100;
+}
+.grey img{
+    position:relative;
+    align-items:center;
+    width:500px;
+    max-width:80vw;
+    height:auto;
+    top:50%;
+    transform:translateY(-50%);
+    border-radius: 20px;
+}
+.display-none{
+    display:none !important;
+}

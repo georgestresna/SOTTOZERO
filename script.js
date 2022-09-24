@@ -31,3 +31,30 @@ function SlideUpMobileContact(){
 
     console.log(index);
 }
+
+let imgTrigger=document.querySelectorAll('.item1 img');
+let nav= document.getElementsByTagName('nav')[0];
+let indexImg=0;
+console.log(imgTrigger);
+
+for(let i=0; i<imgTrigger.length; i++){
+    imgTrigger[i].addEventListener('click',()=>{
+        nav.classList.add("display-none");
+        imgTrigger[i].parentElement.classList.add('grey');
+        // imgTrigger.parentElement.addEventListener('click',()=>{
+        //     imgTrigger.parentElement.classList.remove('grey');
+        // })
+    })
+
+    imgTrigger[i].parentElement.addEventListener('click', ()=>{
+        console.log('s-a apasat pe grey');
+        indexImg+=1;
+        if(indexImg==2){
+            imgTrigger[i].parentElement.classList.remove('grey');
+            if(window.innerWidth > 600){
+                nav.classList.remove("display-none");
+            }
+            indexImg=0;
+        }
+    })
+}
