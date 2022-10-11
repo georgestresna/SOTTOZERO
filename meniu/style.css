@@ -72,7 +72,7 @@ h1 a{
 
 .tel{
     font-family:'Russo One', sans-serif;
-    font-size:5vmax;
+    font-size:clamp(1px, 8vw, 100px);
     display:flex;
     justify-content: center;
     color:black;

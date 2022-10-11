@@ -286,7 +286,6 @@ window.addEventListener("DOMContentLoaded", function () {
         <div class="content">
             <div class="text">
                 <h3>${project.nume}</h3>
-                <h3>CCA ${project.gramaj}gr</h3>
                 <h3 class="price">${project.pret} lei</h3>
             </div>
             <p>${project.ingrediente}</p>
