@@ -61,7 +61,7 @@ const iteme_glovo=[
     //meniuri
     [{
         nume:'Meniu Burger Epic Dreams',
-        gramaj:'700',
+        gramaj:'600',
         ingrediente:'Chifla, carne vita + porc, somon fume, mix branzeturi, ceapa prajita, rosii cherry, sos cheddar, ardei iute, salata iceberg, sosuri, Cartofi prajiti aromatizati',
         pret:'45.00',
         img:'epic-dreams.jpg',
@@ -69,7 +69,7 @@ const iteme_glovo=[
     },
     {
         nume:'Meniu Burger General',
-        gramaj:'700',
+        gramaj:'600',
         ingrediente:'Chifla, carne vita + porc, mix branzeturi, ou, bacon, rosii uscate, ceapa prajita, salata iceberg, sosuri, Cartofi prajiti aromatizati',
         pret:'45.00',
         img:'',
@@ -77,7 +77,7 @@ const iteme_glovo=[
     },
     {
         nume:'Meniu Burger Colonel',
-        gramaj:'700',
+        gramaj:'600',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon, jalapeno, Cartofi prajiti aromatizati',
         pret:'40.00',
         img:'colonel.jpg',
@@ -85,7 +85,7 @@ const iteme_glovo=[
     },
     {
         nume:'Meniu Burger Maior',
-        gramaj:'700',
+        gramaj:'600',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon, Cartofi prajiti aromatizati',
         pret:'40.00',
         img:'maior.jpg',
@@ -93,7 +93,7 @@ const iteme_glovo=[
     },
     {
         nume:'Meniu Burger Clasic',
-        gramaj:'700',
+        gramaj:'500',
         ingrediente:'Chifla, chiftea vita + porc, cheddar, salata iceberg, ceapa rosie, castraveti in otet, maioneza de casa, ketchup, mustar, Cartofi prajiti aromatizati',
         pret:'40.00',
         img:'',
@@ -109,7 +109,7 @@ const iteme_glovo=[
     },
     {
         nume:'Meniu Sandwich Pui/ Porc/ Ceafa Afumata',
-        gramaj:'500',
+        gramaj:'450',
         ingrediente:'Chifla, chips mix branzeturi, pulpa de pui grill/ ceafa de porc grill/ ceafa de porc afumata, salata iceberg, ketchup, maioneza de casa, Cartofi prajiti aromatizati',
         pret:'22.00',
         img:'',
@@ -118,7 +118,7 @@ const iteme_glovo=[
     // burgeri
     [{
         nume:'Burger Epic Dreams',
-        gramaj:'500',
+        gramaj:'450',
         ingrediente:'Chifla, carne vita + porc, somon fume, mix branzeturi, ceapa prajita, rosii cherry, sos cheddar, ardei iute, salata iceberg, sosuri',
         pret:'40.00',
         img:'epic-dreams.jpg',
@@ -126,7 +126,7 @@ const iteme_glovo=[
     },
     {
         nume:'Burger General',
-        gramaj:'500',
+        gramaj:'450',
         ingrediente:'Chifla, carne vita + porc, mix branzeturi, ou, bacon, rosii uscate, ceapa prajita, salata iceberg, sosuri',
         pret:'40.00',
         img:'',
@@ -134,7 +134,7 @@ const iteme_glovo=[
     },
     {
         nume:'Burger Colonel',
-        gramaj:'500',
+        gramaj:'450',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon, jalapeno',
         pret:'35.00',
         img:'colonel.jpg',
@@ -142,7 +142,7 @@ const iteme_glovo=[
     },
     {
         nume:'Burger Maior',
-        gramaj:'500',
+        gramaj:'450',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon',
         pret:'35.00',
         img:'maior.jpg',
@@ -150,7 +150,7 @@ const iteme_glovo=[
     },
     {
         nume:'Burger Clasic',
-        gramaj:'500',
+        gramaj:'450',
         ingrediente:'Chifla, chiftea vita + porc, cheddar, salata iceberg, ceapa rosie, castraveti in otet, maioneza de casa, ketchup, mustar',
         pret:'35.00',
         img:'',
