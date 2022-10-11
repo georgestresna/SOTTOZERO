@@ -161,7 +161,7 @@ const iteme_glovo=[
         nume:'Mini Epic Dreams',
         gramaj:'300',
         ingrediente:'Chifla, carne vita + porc, somon fume, mix branzeturi, ceapa prajita, rosii cherry, sos cheddar, ardei iute, salata iceberg, sosuri',
-        pret:'25.00',
+        pret:'27.00',
         img:'',
         color:'rgb(44, 91, 44)'
     },
@@ -169,7 +169,7 @@ const iteme_glovo=[
         nume:'Mini General',
         gramaj:'300',
         ingrediente:'Chifla, carne vita + porc, mix branzeturi, ou, bacon, rosii uscate, ceapa prajita, salata iceberg, sosuri',
-        pret:'23.00',
+        pret:'25.00',
         img:'',
         color:'rgb(44, 91, 44)'
     },
@@ -177,7 +177,7 @@ const iteme_glovo=[
         nume:'Mini Colonel',
         gramaj:'300',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon, jalapeno',
-        pret:'20.00',
+        pret:'23.00',
         img:'',
         color:'rgb(44, 91, 44)'
     },
@@ -185,7 +185,7 @@ const iteme_glovo=[
         nume:'Mini Maior',
         gramaj:'300',
         ingrediente:'Chiflă ,carne de vită + porc, mix brânzeturi, salată iceberg, sosuri, rosii uscate, ceapă prăjită, bacon',
-        pret:'20.00',
+        pret:'23.00',
         img:'',
         color:'rgb(44, 91, 44)'
     },
@@ -193,7 +193,7 @@ const iteme_glovo=[
         nume:'Mini Clasic',
         gramaj:'300',
         ingrediente:'Chifla, chiftea vita + porc, cheddar, salata iceberg, ceapa rosie, castraveti in otet, maioneza de casa, ketchup, mustar',
-        pret:'18.00',
+        pret:'20.00',
         img:'',
         color:'rgb(44, 91, 44)'
     }],
