@@ -1,3 +1,5 @@
+location.replace("https://glovoapp.com/ro/ro/galati/sottozero-glt/");
+
 const sideMeniu=document.querySelector('.sideMeniu');
 
 function displayMeniu(){
