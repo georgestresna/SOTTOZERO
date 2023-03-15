@@ -1,5 +1,3 @@
-location.replace("https://glovoapp.com/ro/ro/galati/sottozero-glt/");
-
 const sideMeniu=document.querySelector('.sideMeniu');
 
 function displayMeniu(){
@@ -59,4 +57,10 @@ for(let i=0; i<imgTrigger.length; i++){
             indexImg=0;
         }
     })
+}
+let redirectMeniu= ()=>{
+
+}
+let redirectPhone= () => {
+    window.open("tel: 0749 951 191");
 }
