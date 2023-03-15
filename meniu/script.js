@@ -64,7 +64,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'chifla, chiftea vita + porc, somon afumat, salata, rosii cherry, ceapa, mix branzeturi, jalapeno, sosuri(maioneza, salsa rossa), Cartofi prajiti',
         pret:'45.00',
-        img:'epic_dreams.png',
+        img:'epic_dreams.webp',
         color:'#D73B3B'
     },
     {
@@ -72,7 +72,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chifla, carne vita + porc, bacon, salata, rosii cherry, ceapa, jalapeno, mix branzeturi, sosuri(chimicurri), Cartofi prajiti',
         pret:'45.00',
-        img:'chimicurri.png',
+        img:'chimicurri.webp',
         color:'#D73B3B'
     },
     {
@@ -80,7 +80,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chiflă ,chiftea de vită + porc, bacon, salata, rosii, ceapa, mix branzeturi, sosuri(maioneza, salsa rossa, barbeque), Cartofi prajiti',
         pret:'45.00',
-        img:'maior.png',
+        img:'maior.webp',
         color:'#D73B3B'
     },
     {
@@ -88,7 +88,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chiflă ,chiftea de vită + porc, bacon, salata, rosii, ceapa, jalapeno, fasole rosie, porumb, ardei gras, mix branzeturi, sosuri(maioneza, salsa rossa, barbeque), Cartofi prajiti',
         pret:'45.00',
-        img:'gran_sabor.png',
+        img:'gran_sabor.webp',
         color:'#D73B3B'
     },
     {
@@ -96,7 +96,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chifla, chiftea vita + porc, bacon, ou, salata, rosii cherry, ceapa, jalapeno, mix branzeturi, sosuri(maioneza, salsa rossa), Cartofi prajiti',
         pret:'45.00',
-        img:'general.png',
+        img:'general.webp',
         color:'#D73B3B'
     },
     {
@@ -104,7 +104,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chifla, chiftea vita + porc, bacon, salata, rosii , ardei gras, castravete, ceapa, mix branzeturi, jalapeno, sosuri(maioneza, salsa rossa), Cartofi prajiti',
         pret:'45.00',
-        img:'fresco.png',
+        img:'fresco.webp',
         color:'#D73B3B'
     },
     {
@@ -112,7 +112,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chiflă ,chiftea de vită + porc, bacon, salata, rosii, ceapa, jalapeno, mix brânzeturi, sosuri(maioneza, salsa rossa, barbeque), Cartofi prajiti',
         pret:'45.00',
-        img:'colonel.png',
+        img:'colonel.webp',
         color:'#D73B3B'
     },
     {
@@ -120,7 +120,7 @@ const iteme_glovo=[
         gramaj:'500',
         ingrediente:'Chifla, chiftea vita + porc, bacon, cheddar, salata, rosii, ceapa, castravete murat, sosuri(mustar, ketchup), Cartofi prajiti',
         pret:'45.00',
-        img:'clasic.png',
+        img:'clasic.webp',
         color:'#D73B3B'
     },
     // {
@@ -228,7 +228,7 @@ const iteme_glovo=[
         gramaj:'700',
         ingrediente:'blat de cartofi prajiti, carne vita+porc, bacon, mix branzeturi, jalapeno, ceapa, sosuri(maioneza, salsa rossa, barbeque)',
         pret:'47.00',
-        img:'pizza_burger.png',
+        img:'pizza_burger.webp',
         color:'rgb(227, 147, 0)'
     },
     {
@@ -236,7 +236,7 @@ const iteme_glovo=[
         gramaj:'600',
         ingrediente:'blat nachos, carne de pui, mix branzeturi, jalapeno, sosuri(maioneza, salsa rossa, barbeque)',
         pret:'47.00',
-        img:'pizza_nachos.png',
+        img:'pizza_nachos.webp',
         color:'rgb(227, 147, 0)'
     },
     {
@@ -244,7 +244,7 @@ const iteme_glovo=[
         gramaj:'700',
         ingrediente:'blat de cartofi prajiti, carne de porc + pui +vita, bacon, mix branzeturi, jalapeno, sosuri(maioneza, salsa rossa, barbeque)',
         pret:'47.00',
-        img:'pizza_sottozero.png',
+        img:'pizza_sottozero.webp',
         color:'rgb(227, 147, 0)'
     }],
     //burito si quesadilla
@@ -253,7 +253,7 @@ const iteme_glovo=[
         gramaj:'350',
         ingrediente:'lipie, carne de pui+porc+vita, bacon, mix branzeturi, fasole, ardei gras, jalapeno, ceapa, cheddar topit',
         pret:'34.00',
-        img:'q_gran_sabor.png',
+        img:'q_gran_sabor.webp',
         color:'#928940'
     },
     {
@@ -261,7 +261,7 @@ const iteme_glovo=[
         gramaj:'350',
         ingrediente:'lipie, carne de pui, mix branzeturi, fasole, ardei gras, porumb, jalapeno, ceapa, cheddar topit',
         pret:'32.00',
-        img:'q_pollo.png',
+        img:'q_pollo.webp',
         color:'#928940'
     },
     {
@@ -269,7 +269,7 @@ const iteme_glovo=[
         gramaj:'350',
         ingrediente:'lipie, carne de vita+porc, bacon, mix branzeturi, rosii, castraveti murati, jalapeno, ceapa, cheddar topit',
         pret:'30.00',
-        img:'q_burger.png',
+        img:'q_burger.webp',
         color:'#928940'
     },
     {
@@ -277,7 +277,7 @@ const iteme_glovo=[
         gramaj:'400',
         ingrediente:'lipie, carne de pui, mix branzeturi, fasole, ardei gras, porumb, jalapeno, ceapa, rosii, castraveti murati',
         pret:'32.00',
-        img:'b_pollo.png',
+        img:'b_pollo.webp',
         color:'#928940'
     },
     {
@@ -285,7 +285,7 @@ const iteme_glovo=[
         gramaj:'400',
         ingrediente:'Lipie, carne de pui + porc + vita, bacon, mix branzeturi, fasole, ardei gras, porumb, jalapeno, ceapa',
         pret:'34.00',
-        img:'b_gran_sabor.png',
+        img:'b_gran_sabor.webp',
         color:'#928940'
     }],
     //sandwich
