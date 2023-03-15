@@ -58,9 +58,3 @@ for(let i=0; i<imgTrigger.length; i++){
         }
     })
 }
-let redirectMeniu= ()=>{
-
-}
-let redirectPhone= () => {
-    window.open("tel: 0749 951 191");
-}
