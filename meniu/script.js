@@ -62,39 +62,39 @@ const iteme_glovo=[
     [{
         nume:'Meniu Epic Dreams',
         gramaj:'500',
-        ingrediente:'chifla, chiftea vita + porc, somon afumat, salata, rosii cherry, ceapa, mix branzeturi, jalapeno, sosuri(maioneza, salsa rossa), Cartofi prajiti',
+        ingrediente:'Chifla, chiftea vita si porc, somon afumat, mix branzeturi, salata, roșii cherry, ceapa prajita, jalapeno, sos cheddar, cartofi prăjiți, ardei iute proaspat. Recomandari: cel mai picant - 550g',
         pret:'45.00',
         img:'epic_dreams.webp',
         color:'#D73B3B'
     },
-    {
-        nume:'Meniu Chimicurri',
-        gramaj:'500',
-        ingrediente:'Chifla, carne vita + porc, bacon, salata, rosii cherry, ceapa, jalapeno, mix branzeturi, sosuri(chimicurri), Cartofi prajiti',
-        pret:'45.00',
-        img:'chimicurri.webp',
-        color:'#D73B3B'
-    },
+    // {
+    //     nume:'Meniu Chimicurri',
+    //     gramaj:'500',
+    //     ingrediente:'Chifla, carne vita + porc, bacon, salata, rosii cherry, ceapa, jalapeno, mix branzeturi, sosuri(chimicurri), Cartofi prajiti',
+    //     pret:'45.00',
+    //     img:'chimicurri.webp',
+    //     color:'#D73B3B'
+    // },
     {
         nume:'Meniu Maior',
         gramaj:'500',
-        ingrediente:'Chiflă ,chiftea de vită + porc, bacon, salata, rosii, ceapa, mix branzeturi, sosuri(maioneza, salsa rossa, barbeque), Cartofi prajiti',
-        pret:'45.00',
+        ingrediente:'Chifla, chiftea vita porc, mix branzeturi, salata, ceapa prajita, sosuri, cartofi prăjiți',
+        pret:'40.00',
         img:'maior.webp',
         color:'#D73B3B'
     },
     {
         nume:'Meniu Gran Sabor',
         gramaj:'500',
-        ingrediente:'Chiflă ,chiftea de vită + porc, bacon, salata, rosii, ceapa, jalapeno, fasole rosie, porumb, ardei gras, mix branzeturi, sosuri(maioneza, salsa rossa, barbeque), Cartofi prajiti',
-        pret:'45.00',
+        ingrediente:'Chifla, chiftea vita si porc, bacon, cheddar, fasole, ceapa roșie, ardei gras, porumb, jalapeno, sosuri, cartofi prăjiți, salata',
+        pret:'40.00',
         img:'gran_sabor.webp',
         color:'#D73B3B'
     },
     {
         nume:'Meniu General',
         gramaj:'500',
-        ingrediente:'Chifla, chiftea vita + porc, bacon, ou, salata, rosii cherry, ceapa, jalapeno, mix branzeturi, sosuri(maioneza, salsa rossa), Cartofi prajiti',
+        ingrediente:'Chifla, chiftea porc, bacon, mix branzeturi, ou, salata, ceapa, roșii cherry, jalapeno, sosuri, cartofi prăjiți',
         pret:'45.00',
         img:'general.webp',
         color:'#D73B3B'
@@ -102,27 +102,43 @@ const iteme_glovo=[
     {
         nume:'Meniu Fresco',
         gramaj:'500',
-        ingrediente:'Chifla, chiftea vita + porc, bacon, salata, rosii , ardei gras, castravete, ceapa, mix branzeturi, jalapeno, sosuri(maioneza, salsa rossa), Cartofi prajiti',
-        pret:'45.00',
+        ingrediente:'Chifla, chiftea vita si porc, bacon, cheddar, salata, ceapa, roșii cherry, ardei gras, castraveți, sosuri, cartofi prăjiți',
+        pret:'40.00',
         img:'fresco.webp',
         color:'#D73B3B'
     },
     {
         nume:'Meniu Colonel',
         gramaj:'500',
-        ingrediente:'Chiflă ,chiftea de vită + porc, bacon, salata, rosii, ceapa, jalapeno, mix brânzeturi, sosuri(maioneza, salsa rossa, barbeque), Cartofi prajiti',
-        pret:'45.00',
+        ingrediente:'Chifla, chiftea vita si porc, bacon, mix branzeturi, salata, ceapa prajita, jalapeno, roșii, sosuri, cartofi prăjiți',
+        pret:'40.00',
         img:'colonel.webp',
         color:'#D73B3B'
     },
     {
         nume:'Meniu Burger Clasic',
         gramaj:'500',
-        ingrediente:'Chifla, chiftea vita + porc, bacon, cheddar, salata, rosii, ceapa, castravete murat, sosuri(mustar, ketchup), Cartofi prajiti',
-        pret:'45.00',
+        ingrediente:'Chifla, chiftea vita si porc, bacon, cheddar, ceapa, roșii, castraveți murati, cartofi prăjiți, salata',
+        pret:'40.00',
         img:'clasic.webp',
         color:'#D73B3B'
     },
+    // {
+    //     nume:'Meniu Amiral Burger',
+    //     gramaj:'500',
+    //     ingrediente:'cartofi prajiti, carne tocata de vita, chifla, carne ton, somon afumat, creveti, mozzarella, rosii, salata, castraveti proaspeti, ardei gras, ceapa, maioneza, ketchup',
+    //     pret:'_.__',
+    //     img:'',
+    //     color:'#D73B3B'
+    // },
+    // {
+    //     nume:'Meniu Maresal Burger',
+    //     gramaj:'500',
+    //     ingrediente:'cartofi prajiti, carne tocata de vita, chifla, carne oaie, bacon, cheddar, rosii, salata, castraveti murati, ardei gras, ceapa, maioneza, ketchup, mustar',
+    //     pret:'_.__',
+    //     img:'',
+    //     color:'#D73B3B'
+    // },
     // {
     //     nume:'Meniu Crispy',
     //     gramaj:'330',
@@ -226,48 +242,56 @@ const iteme_glovo=[
     [{
         nume:'PIZZA BURGER',
         gramaj:'700',
-        ingrediente:'blat de cartofi prajiti, carne vita+porc, bacon, mix branzeturi, jalapeno, ceapa, sosuri(maioneza, salsa rossa, barbeque)',
-        pret:'47.00',
+        ingrediente:'Blat de cartofi prăjiți, carne de vita, carne de porc, mix branzeturi, jalapeno, sosuri, ceapa prajita, sos cheddar',
+        pret:'45.00',
         img:'pizza_burger.webp',
         color:'rgb(227, 147, 0)'
     },
     {
         nume:'PIZZA NACHOS',
-        gramaj:'600',
-        ingrediente:'blat nachos, carne de pui, mix branzeturi, jalapeno, sosuri(maioneza, salsa rossa, barbeque)',
-        pret:'47.00',
+        gramaj:'500',
+        ingrediente:'Blat de Nachos, carne de pui, mix branzeturi, jalapeno, sos cheddar, sosuri',
+        pret:'45.00',
         img:'pizza_nachos.webp',
         color:'rgb(227, 147, 0)'
     },
+    //     {
+    //     nume:'PIZZA GRAN SABOR',
+    //     gramaj:'600',
+    //     ingrediente:'cartofi prajiti, carne vita, carne porc, bacon, mozzarella, cheddar,fasole, porumb,, castraveti murati, ardei gras, jalapeno, ceapa, ketchup, sos barbeque, sos chilli',
+    //     pret:'_.__',
+    //     img:'',
+    //     color:'rgb(227, 147, 0)'
+    // },
     {
         nume:'PIZZA SOTTOZERO',
-        gramaj:'700',
-        ingrediente:'blat de cartofi prajiti, carne de porc + pui +vita, bacon, mix branzeturi, jalapeno, sosuri(maioneza, salsa rossa, barbeque)',
-        pret:'47.00',
+        gramaj:'500',
+        ingrediente:'Blat de nachos, carne de pui, carne de vita, carne de porc, mix branzeturi, jalapeno, sos cheddar, sosuri',
+        pret:'45.00',
         img:'pizza_sottozero.webp',
         color:'rgb(227, 147, 0)'
     }],
     //burito si quesadilla
     [{
         nume:'Quesadilla Gran Sabor',
-        gramaj:'350',
-        ingrediente:'lipie, carne de pui+porc+vita, bacon, mix branzeturi, fasole, ardei gras, jalapeno, ceapa, cheddar topit',
-        pret:'34.00',
+        gramaj:'400',
+        ingrediente:'Lipie, carne de pui, carne de vita, carne de porc, mix branzeturi, jalapeno, fasole, ceapa roșie, ardei gras, porumb',
+        pret:'30.00',
         img:'q_gran_sabor.webp',
         color:'#928940'
     },
-    {
-        nume:'Quesadilla de Pollo',
-        gramaj:'350',
-        ingrediente:'lipie, carne de pui, mix branzeturi, fasole, ardei gras, porumb, jalapeno, ceapa, cheddar topit',
-        pret:'32.00',
-        img:'q_pollo.webp',
-        color:'#928940'
-    },
+    // {
+    //     nume:'Quesadilla de Pollo',
+    //     gramaj:'350',
+    //     ingrediente:'lipie, carne de pui, mix branzeturi, fasole, ardei gras, porumb, jalapeno, ceapa, cheddar topit',
+    //     pret:'32.00',
+    //     img:'q_pollo.webp',
+    //     color:'#928940'
+    // },
     {
         nume:'Quesadilla Burger',
-        gramaj:'350',
-        ingrediente:'lipie, carne de vita+porc, bacon, mix branzeturi, rosii, castraveti murati, jalapeno, ceapa, cheddar topit',
+        gramaj:'400',
+        ingrediente:'Lipie, carne de vita, carne de porc, mix branzeturi, jalapeno, mfasole, ceapa roșie, ardei gras, porumb, sos cheddar',
         pret:'30.00',
         img:'q_burger.webp',
         color:'#928940'
@@ -275,19 +299,44 @@ const iteme_glovo=[
     {
         nume:'BURRITO de Pollo',
         gramaj:'400',
-        ingrediente:'lipie, carne de pui, mix branzeturi, fasole, ardei gras, porumb, jalapeno, ceapa, rosii, castraveti murati',
-        pret:'32.00',
+        ingrediente:'Lipie, carne de pui, mix branzeturi, jalapeno, fasole, ceapa roșie, ardei gras, porumb',
+        pret:'30.00',
         img:'b_pollo.webp',
+        color:'#928940'
+    },
+    {
+        nume:'Chimicurri Burger',
+        gramaj:'550',
+        ingrediente:'Chifla, chiftea vita si porc, salata, roșii cherry, sos chimichurri, cartofi prăjiți',
+        pret:'40.00',
+        img:'chimicurri.webp',
         color:'#928940'
     },
     {
         nume:'BURRITO Gran Sabor',
         gramaj:'400',
-        ingrediente:'Lipie, carne de pui + porc + vita, bacon, mix branzeturi, fasole, ardei gras, porumb, jalapeno, ceapa',
-        pret:'34.00',
+        ingrediente:'Lipie, carne de vita, carne de pui, carne de porc, mix branzeturi, fasole, ceapa roșie, ardei gras, porumb, jalapeno, sosuri',
+        pret:'32.00',
         img:'b_gran_sabor.webp',
         color:'#928940'
     }],
+    //shaorma
+    [{
+        nume:'Shawarma burger Sottozero',
+        gramaj:'400',
+        ingrediente:'Lipie, carne de vita, salata, roșii cherry, ceapa, castraveți murati, jalapeno, sosuri, cartofi prăjiți',
+        pret:'28.00',
+        img:'shawarma1.webp',
+        color:'rgb(59, 146, 114)'
+    },
+    {
+        nume:'Shawarma pui',
+        gramaj:'400',
+        ingrediente:'Lipie, carne de pui, salata, roșii cherry, ceapa, castraveți murati, varza, sosuri, cartofi prăjiți',
+        pret:'28.00',
+        img:'shawarma2.webp',
+        color:'rgb(59, 146, 114)'
+    },]
     //sandwich
     // [{
     //     nume:'Sandwich cu Pui/ Porc/ Ceafa Afumata',
@@ -335,4 +384,5 @@ renderJS('.options .meniu_meniu',0);
 // renderJS('.options .meniu_miniburgeri',2);
 renderJS('.options .meniu_pizza',1);
 renderJS('.options .meniu_buritoquesadilla',2);
+renderJS('.options .meniu_shawarma',3);
 // renderJS('.options .meniu_sandwich',5);

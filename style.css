@@ -69,8 +69,8 @@ nav button:nth-child(2){
 .backgroundImage img{
     object-fit:contain;
     position:absolute;
-    bottom:0;
-    width:55vw;
+    bottom: -60%;
+    width:100vw;
     height:auto;
 }
 .homePage{
@@ -596,7 +596,21 @@ img.bkg2{
         font-size:clamp(.5rem ,3vw, 2rem);
     }
 }
-
+@media (max-width:1100px){
+    .backgroundImage img{
+        bottom:-25%;
+    }
+}
+@media (min-width:850px){
+    .backgroundImage img{
+        bottom:-45%;
+    }
+}
+@media (min-width:1200px){
+    .backgroundImage img{
+        bottom:-65%;
+    }
+}
 @media (max-width:600px){
     nav{
         display:none;
@@ -609,6 +623,7 @@ img.bkg2{
     }
     .backgroundImage img{
         width:85vw;
+        bottom:-50%;
     }
     .showoutItems{
         display:grid;
